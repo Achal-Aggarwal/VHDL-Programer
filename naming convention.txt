@@ -1,0 +1,4 @@
+Package names --> all small, no spaces, no underscores
+Class names   --> First letter of each word in caps, no spaces, no underscores
+Class variables--> all small, words seperated with underscore
+function names --> Camel caseing is used
